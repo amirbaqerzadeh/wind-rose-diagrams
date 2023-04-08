@@ -21,9 +21,9 @@ pip install numpy pandas matplotlib windrose
 
 Usage
 
-To generate wind-rose diagrams for each season between 1990 and 2004, run the following command:
+To generate wind-rose diagrams for each season between 1990 and 2004, run the commands in :
 
-python windrose.py
+plot wind rose diagrams for data from 1990 to 2004..ipynb
 
 This may take some time to complete, depending on the speed of your computer.
 
