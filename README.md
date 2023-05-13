@@ -4,7 +4,7 @@ This repository contains Python code to generate wind-rose diagrams using the wi
 
 Data Source
 
-The wind speed and direction data used in this project was obtained from a synoptic station in Iran. The data consists of measurements taken every three hours between 1990 and 2004. The data was originally provided in a CSV file, which was cleaned and processed using Python and the pandas library.
+The wind speed and direction data used in this project was obtained from a synoptic station in Iran. The data consists of measurements taken every three hours between 1990 and 2004. The data was originally provided in a Excel file, which was cleaned and processed using Python and the pandas library.
 
 Installation
 
